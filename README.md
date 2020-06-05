@@ -1,2 +1,2 @@
-# bootcamp2020learn
-basic website for BC
+# bootcamp2020learn_proj1
+Basic website for Bootcamp
